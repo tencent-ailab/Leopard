@@ -9,10 +9,10 @@ from utils import read_jsonl, write_json, write_jsonl,read_json
 
 
 formated_all_data = []
-all_data_path = os.listdir('modified_local_full_without_specified/')
+all_data_path = os.listdir('data/')
 for data_name in tqdm(all_data_path):
 
-    data_path = f"modified_local_full_without_specified/{data_name}"
+    data_path = f"data/{data_name}"
 
     json_path = os.path.join(data_path, 'chart-path_and_question-answer_pair.json')
     qa_data = read_json(json_path)

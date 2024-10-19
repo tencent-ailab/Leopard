@@ -10,7 +10,6 @@ json_paths = [i for i in os.listdir(data_home_dir) if i.endswith('.json')]
 all_data = []
 formated_all_data = []
 for json_path in json_paths:
-    # print(json_path, len(read_jQsgR3VKmS7edWac,son(os.path.join(data_home_dir, json_path))))
     all_data.extend(read_json(os.path.join(data_home_dir, json_path)))
 # all_data = split_shard(all_data, args)
 for exp in all_data:

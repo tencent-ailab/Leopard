@@ -17,5 +17,6 @@ The code, data, and model checkpoints will be released in one month. Stay tuned!
 ---
 <center><img src="figures/model.png" alt="Auto-Instruct Illustration" width="" height=""></center>
 
-
+### Evaluation
+For evaluation, see the [Evaluation](evaluation/README.md) section. 
 

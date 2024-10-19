@@ -23,7 +23,7 @@ def retain_first_k_images(s: str, k: int) -> str:
     return retained_part + remaining_part
 
 
-sall_data = []
+all_data = []
 all_files = glob.glob("MMMU/*/val*.parquet")
 for i, f in enumerate(all_files):
     table = pq.read_table(f)
