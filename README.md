@@ -8,16 +8,11 @@ The code, data, and model checkpoints will be released in one month. Stay tuned!
 <p align="center">
   <a href="https://arxiv.org/abs/2410.01744">
     <img style="height:22pt" src="https://img.shields.io/badge/-Paper-black?style=flat&logo=arxiv"></a>
-  </a>
   <a href="https://github.com/tencent-ailab/Leopard">
-    <img style="height:22pt" src="https://img.shields.io/badge/-Code-green?style=flat&logo=github">
-  </a>
+    <img style="height:22pt" src="https://img.shields.io/badge/-Code-green?style=flat&logo=github"></a>
   <a href="https://huggingface.co/datasets/wyu1/Leopard-Instruct">
-   <img style="height:22pt" src="https://img.shields.io/badge/-🤗%20Dataset-red?style=flat">
-  </a>
-  <a href="https://huggingface.co/wyu1/Leopard-LLaVA">
-    <img style="height:22pt" src="https://img.shields.io/badge/-🤗%20Models-red?style=flat">
-  </a>
+   <img style="height:22pt" src="https://img.shields.io/badge/-🤗%20Dataset-red?style=flat"></a>
+  <a href="https://huggingface.co/wyu1/Leopard-LLaVA"><img style="height:22pt" src="https://img.shields.io/badge/-🤗%20Models-red?style=flat"></a>
 
 </p>
 
