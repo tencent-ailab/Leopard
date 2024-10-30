@@ -19,8 +19,8 @@ The code, data, and model checkpoints will be released in one month. Stay tuned!
 
 ### Updates
 
-- [x] [2024-10-19]. Evaluation code for Leopard-LLaVA and Leopard-Idefics2 is available.
-- [x] [2024-10-30]. We release the checkpoints of Leopard-LLaVA and Leopard-Idefics2. 
+- [x] 📢 [2024-10-19]. Evaluation code for Leopard-LLaVA and Leopard-Idefics2 is available.
+- [x] 📢 [2024-10-30]. We release the checkpoints of Leopard-LLaVA and Leopard-Idefics2. 
 - [ ] Finish uploading the Leopard-Instruct dataset to Huggingface.
 - [ ] Release the training code for Leopard-LLaVA and Leopard-Idefics2.
 
@@ -39,7 +39,7 @@ The code, data, and model checkpoints will be released in one month. Stay tuned!
 
 ### Evaluation
 
-For evaluation, please refer to the [Evaluation](evaluation/README.md) section. 
+For evaluation, please refer to the [Evaluations](evaluations/README.md) section. 
 
 ### Model Zoo
 
