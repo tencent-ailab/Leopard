@@ -1,0 +1,13 @@
+
+LOGDIR = "."
+
+# Model Constants
+IGNORE_INDEX = -100
+# IMAGE_TOKEN_INDEX = -200
+# PAD_IDX=0
+DEFAULT_IMAGE_TOKEN = "<image>"
+# IMAGE_TOKEN_INDEX = 32001
+# RELETIVE_IMAGE_TOKEN_ID = 2 # for padding vocab in tensor parallel
+# AROUND_IMAGE_TOKEN_INDEX=32000
+# END_OF_UTTERANCE=32002
+END_OF_UTTERANCE_TOKEN="<end_of_utterance>"
