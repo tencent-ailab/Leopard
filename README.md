@@ -21,8 +21,8 @@ The code, data, and model checkpoints will be released in one month. Stay tuned!
 
 - [x] 📢 [2024-10-19]. Evaluation code for Leopard-LLaVA and Leopard-Idefics2 is available.
 - [x] 📢 [2024-10-30]. We release the checkpoints of Leopard-LLaVA and Leopard-Idefics2. 
-- [ ] Uploading the Leopard-Instruct dataset to Huggingface is in progress.
-- [ ] We will release the training code for Leopard-LLaVA and Leopard-Idefics2 soon.
+- [x] 📢 [2024-11] Uploaded the Leopard-Instruct dataset to Huggingface.
+- [x] 📢 [2024-12] We released the training code for Leopard-LLaVA and Leopard-Idefics2.
 
 
 
@@ -48,4 +48,7 @@ We provide the checkpoints of Leopard-LLaVA and Leopard-Idefics2 on Huggingface.
 - [Leopard-LLaVA](https://huggingface.co/wyu1/Leopard-LLaVA)
 - [Leopard-Idefics2](https://huggingface.co/wyu1/Leopard-Idefics2)
 
+### Training
+
+For evaluation, please refer to the [Training](Pai-Megatron-Patch/README.md) section. 
 

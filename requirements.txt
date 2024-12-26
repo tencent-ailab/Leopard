@@ -1,7 +1,11 @@
 editdistance
 pillow
 rouge
+webdataset
+matplotlib
+scipy
 datasets
+scikit-learn
 torchvision==0.16.2
 deepspeed
 icetk
