@@ -50,5 +50,5 @@ We provide the checkpoints of Leopard-LLaVA and Leopard-Idefics2 on Huggingface.
 
 ### Training
 
-For evaluation, please refer to the [Training](Pai-Megatron-Patch/README.md) section. 
+For model training, please refer to the [Training](Pai-Megatron-Patch/README.md) section. 
 
